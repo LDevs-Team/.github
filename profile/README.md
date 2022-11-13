@@ -1,0 +1,12 @@
+## Hi, we are the L Devs
+We L people  (we don't)
+
+😎 We made DiSH
+
+🎆 We made the WallpaperChanger (OSS in the future)
+
+💻 We do data analisys
+
+🤖 We plan on using AI to make the world a better place
+
+🔥 Wanna help us? Open a PR
